@@ -1,0 +1,9 @@
+name: predictive-text-and-text-generation
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - tensorflow
+  - pip:
+    - markovify
+    - textgenrnn
