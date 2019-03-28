@@ -1,0 +1,2 @@
+textgenrnn==1.5
+markovify==0.7.1
